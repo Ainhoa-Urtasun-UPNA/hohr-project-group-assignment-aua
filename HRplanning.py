@@ -1,7 +1,7 @@
 import numpy
 
 # Forecasting number of available workers
-D = numpy.array([[],[],[]])
+D = numpy.array([[1],[],[]])
 M = numpy.array([[],[],[]])
 b = numpy.array([[],[],[]])
 a = M@numpy.linalg.inv(D)@b
