@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Link](https://makecode.com/_76W9M95JmCkW) and ![Image](src)
+![Link](https://arcade.makecode.com/24226-86671-89738-70422) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
