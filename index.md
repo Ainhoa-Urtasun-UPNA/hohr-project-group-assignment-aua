@@ -1,5 +1,6 @@
 # HP-CEP
-## NAICS-5417 'Scientific Research and Development Services'
+* (NAICS-5417 'Scientific Research and Development Services')
+* ![Production process](Flowchart.png)
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-aua/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
